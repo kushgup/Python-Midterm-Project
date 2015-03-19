@@ -1,0 +1,28 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 16 2013, 23:39:35) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter a number k (<10) for protein sequence length: 10
+
+The sequence of length 10 with greatest variation:
+KVASSDLVNM diff = 4; pre_treat = 4, post_treat = 0
+>>> ================================ RESTART ================================
+>>> 
+Enter a number k (<10) for protein sequence length: 11
+
+The sequence of length 11 with greatest variation:
+ diff = 0; pre_treat = 0, post_treat = 0
+>>> ================================ RESTART ================================
+>>> 
+Enter a number k (<10) for protein sequence length: 7
+
+The sequence of length 7 with greatest variation:
+HTGEKPY diff = 38; pre_treat = 39, post_treat = 1
+>>> ================================ RESTART ================================
+>>> 
+Enter a number k (<10) for protein sequence length: 3
+
+The sequence of length 3 with greatest variation:
+KPY diff = 91; pre_treat = 100, post_treat = 9
+>>> 
